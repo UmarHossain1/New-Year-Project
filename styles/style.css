@@ -42,3 +42,44 @@ h1 {
   font-size: 72px;
   font-weight: 800;
 }
+/* categories styles */
+
+.categories {
+  width: 802.9px;
+  height: 806px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.categories-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.categories-content h2 {
+  font-family: Inter;
+  font-size: 64px;
+  font-weight: 700;
+  color: rgb(255, 0, 0);
+}
+.categories-content p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 24px;
+  color: rgb(255, 0, 0);
+}
+.categories-content h3 {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  margin-top: 16px;
+  color: rgb(7, 2, 17);
+}
+.new-year-img {
+  margin-top: 64px;
+  position: absolute;
+  width: 802.9px;
+  height: 500px;
+  border: 1px dashed gray;
+}
